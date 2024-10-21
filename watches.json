@@ -5,7 +5,7 @@
     "model": "Submariner",
     "price": 12500,
     "type": "Diver",
-    "imageUrl": "https://example.com/images/rolex-submariner.jpg"
+    "imageUrl": "https://www.rolex.com/content/dam/rolex-com/e-billboard/submariner/m124060-0001.png"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "model": "Speedmaster",
     "price": 6500,
     "type": "Chronograph",
-    "imageUrl": "https://example.com/images/omega-speedmaster.jpg"
+    "imageUrl": "https://www.omegawatches.com/media/catalog/product/cache/7/image/800x800/17f82f742ffe127f42dca9de82fb58b1/o/m/omega-speedmaster-moonwatch-professional-31130423001006-l.png"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "model": "Carrera",
     "price": 4200,
     "type": "Automatic",
-    "imageUrl": "https://example.com/images/tag-heuer-carrera.jpg"
+    "imageUrl": "https://www.tagheuer.com/on/demandware.static/-/Sites-tagheuer-master/default/dw604cd7ac/TH%20Watches/WBN2010.BA0640/1.png"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "model": "Prospex",
     "price": 600,
     "type": "Diver",
-    "imageUrl": "https://example.com/images/seiko-prospex.jpg"
+    "imageUrl": "https://www.seikowatches.com/images/gallary/14073_1_Pic.png"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "model": "G-Shock",
     "price": 150,
     "type": "Digital",
-    "imageUrl": "https://example.com/images/casio-gshock.jpg"
+    "imageUrl": "https://gshock.casio.com/sg-en/products/images/GA-2100-1A1-XL.png"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "model": "Royal Oak",
     "price": 45000,
     "type": "Luxury",
-    "imageUrl": "https://example.com/images/audemars-royal-oak.jpg"
+    "imageUrl": "https://www.audemarspiguet.com/content/dam/ap/collections/royal-oak/15500ST/15500ST_OW_v1.png"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "model": "Navitimer",
     "price": 7000,
     "type": "Aviation",
-    "imageUrl": "https://example.com/images/breitling-navitimer.jpg"
+    "imageUrl": "https://www.breitling.com/media/image/1011801_1159154_main-hero.png"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "model": "Nautilus",
     "price": 60000,
     "type": "Luxury",
-    "imageUrl": "https://example.com/images/patek-philippe-nautilus.jpg"
+    "imageUrl": "https://www.patek.com/media/catalog/product/cache/1/image/1500x/040ec09b1e35df139433887a97daa66f/n/a/nautilus_5811_1g_001_1.png"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "model": "PRX",
     "price": 900,
     "type": "Automatic",
-    "imageUrl": "https://example.com/images/tissot-prx.jpg"
+    "imageUrl": "https://www.tissotwatches.com/media/catalog/product/cache/2/image/1800x/17f82f742ffe127f42dca9de82fb58b1/t/1/t137_407_11_051_00_prx_auto_steel.png"
   },
   {
     "id": 10,
@@ -77,6 +77,6 @@
     "model": "Watch Series 9",
     "price": 399,
     "type": "Smartwatch",
-    "imageUrl": "https://example.com/images/apple-watch-series9.jpg"
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MKU73_VW_34FR+watch-49-ultra-cell?wid=512&hei=512&fmt=jpeg&qlt=90&.v=1678058193086"
   }
 ]
