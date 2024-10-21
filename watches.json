@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "brand": "Rolex",
+      "model": "Submariner",
+      "price": 12500,
+      "type": "Diver"
+    },
+    {
+      "id": 2,
+      "brand": "Omega",
+      "model": "Speedmaster",
+      "price": 6500,
+      "type": "Chronograph"
+    },
+    {
+      "id": 3,
+      "brand": "Tag Heuer",
+      "model": "Carrera",
+      "price": 4200,
+      "type": "Automatic"
+    },
+    {
+      "id": 4,
+      "brand": "Seiko",
+      "model": "Prospex",
+      "price": 600,
+      "type": "Diver"
+    },
+    {
+      "id": 5,
+      "brand": "Casio",
+      "model": "G-Shock",
+      "price": 150,
+      "type": "Digital"
+    },
+    {
+      "id": 6,
+      "brand": "Audemars Piguet",
+      "model": "Royal Oak",
+      "price": 45000,
+      "type": "Luxury"
+    },
+    {
+      "id": 7,
+      "brand": "Breitling",
+      "model": "Navitimer",
+      "price": 7000,
+      "type": "Aviation"
+    },
+    {
+      "id": 8,
+      "brand": "Patek Philippe",
+      "model": "Nautilus",
+      "price": 60000,
+      "type": "Luxury"
+    },
+    {
+      "id": 9,
+      "brand": "Tissot",
+      "model": "PRX",
+      "price": 900,
+      "type": "Automatic"
+    },
+    {
+      "id": 10,
+      "brand": "Apple",
+      "model": "Watch Series 9",
+      "price": 399,
+      "type": "Smartwatch"
+    }
+  ]
+  
